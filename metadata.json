@@ -1,0 +1,11 @@
+{
+  "name": "TUTeach - Learn Smarter With AI",
+  "description": "Comprehensive AI education platform featuring personalized AI tutoring, voice and text Q&A, structured course knowledge, practical assignments, evidence-based evaluations, and verified certificates.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
